@@ -1,0 +1,108 @@
+body{
+    background-color: #1C1C1C;
+    color: #F5F5F5;
+}
+.nomeAlbum
+{
+color: black;
+} 
+a:link { 
+    text-decoration: none;
+} 
+
+#spinner{
+    margin-left: 15px;
+}
+
+#carouselExampleInterval{
+    margin-top: 15px;
+}
+#instagramImg{
+    margin-top: 30px ;
+    width: 60px ;
+}
+#titulo{
+    margin-top: 20px;
+    margin-left: 25px;
+    font: 35px LUNABAR ;
+    color: white;
+    text-decoration: none;   
+}
+.albuns{
+    margin-left: 45px;
+}
+.album{
+    background-color: antiquewhite;
+    margin: 30px;
+    max-height: 330px;
+    max-width: 300px;
+
+    color: black;
+}
+.imagemAlbum{
+    /* 220 */
+    max-width: 220px;
+    max-height: 250px; 
+    margin-top: 20px;
+}
+.nomeAlbum{
+    font: 25px AmericanTypewriter;
+    margin-top: 18px;
+    margin-bottom: 20px;
+    margin-left: auto;
+}
+.contato{
+    margin-top: 20px;
+    font: 18px AmericanTypewriter;
+    color: white;
+
+}
+.formulario{
+    padding: 5px;
+}
+.sobre{
+    font: 18px AmericanTypewriter;
+    margin-top: 30px;
+}
+.sobre-titulo{
+    margin-top: 100px;
+
+}
+.img-sobre{
+    margin-top: 50px;
+}
+.conteudo-sobre{
+    margin-top: 60px;
+
+    line-height: 30px;
+}
+.titulo{
+    font: 42px AmericanTypewriter;
+    margin-top: 20px;
+}
+.imagens{
+    margin: 50px;
+}
+.enviado{
+    margin-top: 10px;
+}
+#footer{
+    margin-top:20px;
+    margin-bottom:20px;
+}
+.lang{
+    margin-top: 50px;
+
+}
+#linkLang{
+    color: gray;
+    font: 17px AmericanTypewriter;
+}
+@font-face {
+    font-family: AmericanTypewriter;
+    src: url('/fonts/AmericanTypewriter.ttf');
+}
+@font-face {
+    font-family: LUNABAR;
+    src: url('/fonts/LUNABAR_.TTF');
+}
